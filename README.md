@@ -21,4 +21,6 @@ I'm Adrian - I'm a developer, creator, open source supporter, and student. I'm i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
+![Anurag's GitHub stats](https://github-readme-stats-driver005.vercel.app/api?username=driver005)
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/driver005/driver005/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
