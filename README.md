@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adrian - I'm a developer, creator, open source supporter, and student. I'm interested in development, desining and building e commerce software, payment gateways, subscriptions, using ai and creating social media platforms. I work on tousends of side projects how some day will be finished!
+Abwarten und cay trinken
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,figma,react,flutter,blender,go,rust,ai,nextjs,nodejs,redis,tailwind,threejs,vscode&theme=dark&perline=8)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ![Anurag's GitHub stats](https://github-readme-stats-driver005.vercel.app/api?username=driver005)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/driver005/driver005/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+-->
