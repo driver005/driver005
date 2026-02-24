@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 🤔 I'm currently looking for work
 
