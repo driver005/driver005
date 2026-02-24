@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Abwarten und cay trinken
+🤔 I’m currently looking for work
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,figma,react,flutter,blender,go,rust,ai,nextjs,nodejs,redis,tailwind,threejs,vscode&theme=dark&perline=8)
 
